@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/easy-money-sniper/csb_console_sdk.git"
+        "url": "git+https://github.com/easyKDsniper/csb_console_sdk.git"
     },
     "keywords": [
         "CSB",
@@ -20,9 +20,9 @@
     "author": "xuliang0706@gmail.com Liang Xu",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/easy-money-sniper/csb_console_sdk/issues"
+        "url": "https://github.com/easyKDsniper/csb_console_sdk/issues"
     },
-    "homepage": "https://github.com/easy-money-sniper/csb_console_sdk#readme",
+    "homepage": "https://github.com/easyKDsniper/csb_console_sdk#readme",
     "dependencies": {
         "co": "^4.6.0",
         "debug": "^2.6.0",
